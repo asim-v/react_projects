@@ -1,0 +1,3 @@
+- Each react component goes in a separate file
+- Components extend component (Imported from react)
+- Skeleton assumes top object is App in App.js

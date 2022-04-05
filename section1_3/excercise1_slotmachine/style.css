@@ -1,0 +1,37 @@
+.slotMachine{
+    background: #b60000;
+    color: white;
+    padding: 10%;
+    font-family: monospace;
+}
+.slotButton{
+    font-family: monospace;
+    border: none;
+    background-color: white;    
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.slotButton:hover{
+    cursor: pointer;
+    filter: invert() ;
+    transition: 0.3s;
+}
+.slotFruits{
+    font-size: xxx-large;
+}
+
+.success{
+    padding: 10px;
+    width: fit-content;
+    background: rgb(48 200 53);
+    box-shadow: -1px 2px 18px 15px #dbff1566;
+}
+.failiure{
+    padding: 10px;
+    width: fit-content;
+    background: rgb(243, 57, 0);
+    box-shadow: 10px 10px 10px #91010166;
+}

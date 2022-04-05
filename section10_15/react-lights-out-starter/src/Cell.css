@@ -1,0 +1,9 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  transition: 0.3s;
+  background-color: #1200a882;
+}
+.Cell-lit {
+  background-color: white;
+  box-shadow: 3px 3px 20px 7px #00e6ff;}

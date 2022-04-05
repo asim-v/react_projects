@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.cardContainer{
+    font-family: 'Roboto', sans-serif;
+    /* border: 10px red solid; */
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: -2px 7px 20px 3px #0000000d;
+    margin: 20px;
+    /* background: #9a8b8b; */
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;    
+    max-width: 500px;
+}
+div > .cardContainer{
+    display: flex;
+}
+.cardImage{
+    width: 50px;
+    height: 50%;
+    border-radius: 50px;
+
+}
+.cardHobby{
+    color: green;
+    background: #00800026;
+    padding: 4px;
+    padding-left: 8px;
+    border-radius: 10px;
+    padding-right: 8px;
+}

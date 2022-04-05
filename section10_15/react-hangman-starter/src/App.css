@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://st3.depositphotos.com/3244131/12949/v/600/depositphotos_129491648-stock-illustration-seamless-pattern-of-school-notebook.jpg");
+  background-position: center center;
+  background-repeat: repeat;
+  filter: invert(1);
+}
+  
